@@ -10,7 +10,9 @@ The active files for editing the API is in the .venv folder.
 
 1. from the main director CD down to the .venv folder
 2.This will open the virtual environment.
+
 3. CD ino the Thoughts folder to find all files for configuration of the api:
+
 models.py = setting up structure and data types for the Thought table/data storage.
 
 serializers.py = files to configure serializer to support conversion to json. 
